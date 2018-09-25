@@ -1,0 +1,22 @@
+{
+  "name": "library-management",
+  "version": "1.0.0",
+  "description": "a desktop application for library management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muneebkattody/library-management-app.git"
+  },
+  "author": "muneeb-kattody",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muneebkattody/library-management-app/issues"
+  },
+  "homepage": "https://github.com/muneebkattody/library-management-app#readme",
+  "dependencies": {
+    "electron": "^3.0.0"
+  }
+}
